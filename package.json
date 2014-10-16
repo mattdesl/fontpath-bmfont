@@ -1,0 +1,34 @@
+{
+  "name": "fontpath-bmfont",
+  "version": "1.0.0",
+  "description": "converts BMFont to fontpath format",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fontpath",
+    "glyphs",
+    "font",
+    "text",
+    "bitmap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/fontpath-bmfont.git"
+  },
+  "homepage": "https://github.com/mattdesl/fontpath-bmfont",
+  "bugs": {
+    "url": "https://github.com/mattdesl/fontpath-bmfont/issues"
+  }
+}
